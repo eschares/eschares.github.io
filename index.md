@@ -77,6 +77,7 @@ I'm happy to offer consulting work through [Schares Data Science](https://www.sc
 
 ## Research Workshops
 * * *
+- Statistical Rethinking [2024](https://github.com/rmcelreath/stat_rethinking_2024). Richard McElreath. January 5 - March 8, 2024. Weekly live course, online.
 - Science of Science Summer School [(S4)](https://s4.scienceofscience.org/). Syracuse University. August 1-12, 2022. Live course, online.
 - Working with Scholarly APIs. [NISO Spring Training Series](https://www.niso.org/events/working-scholarly-apis-niso-training-series). April 28 - June 16, 2022. Weekly live course, online.
 - CWTS Bibliometrics and Scientometrics for Research Evaluation. [Leiden University Center for Science and Technology](https://www.cwts.nl/about-cwts), Netherlands. November 15-18, 2021. Live course, online
