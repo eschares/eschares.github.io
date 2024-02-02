@@ -23,11 +23,12 @@ I'm happy to offer consulting work through [Schares Data Science](https://www.sc
 
 ## Publications
 * * *
-- **Schares, E.** (2023, October). When Is a Year Complete? _OpenISU_. [https://doi.org/10.31274/b8136f97.64082876](https://doi.org/10.31274/b8136f97.64082876).
+- **Schares, E.** (2023, December). Rethinking Hybrid Open Access labels for post-embargo articles. _OpenISU_. [https://doi.org/10.31274/b8136f97.45a4f699](https://doi.org/10.31274/b8136f97.45a4f699).
+- **Schares, E.** (2023, October). When is a year complete? _OpenISU_. [https://doi.org/10.31274/b8136f97.64082876](https://doi.org/10.31274/b8136f97.64082876).
 - **Schares, E.** and Mierz, S. (2023). Using OpenAlex to analyse cited reference patterns [preprint]. _27th International Conference on Science, Technology, and Innovation Indicators (STI 2023)_. [https://dapp.orvium.io/deposits/6441a6ee36d64a64fca6d6db/view](https://dapp.orvium.io/deposits/6441a6ee36d64a64fca6d6db/view)
-- **Schares, E.** (2023, July). Benefits of Reading Open Peer Reviews. _OpenISU_. [https://doi.org/10.31274/b8136f97.85fb1123](https://doi.org/10.31274/b8136f97.85fb1123).
-- **Schares, E.** (2023). Impact of the 2022 OSTP Memo: A Bibliometric Analysis of U.S. Federally Funded Publications, 2017-2021. _Quantitative Science Studies_, 4(1): 1-21. [https://doi.org/10.1162/qss_a_00237](https://doi.org/10.1162/qss_a_00237).
-- **Schares, E.** (2022, October). Impact of the 2022 OSTP Memo: A Bibliometric Analysis of U.S. Federally Funded Publications, 2017-2021 [preprint]. _arXiv_, [https://arxiv.org/abs/2210.14871](https://arxiv.org/abs/2210.14871).
+- **Schares, E.** (2023, July). Benefits of reading open peer reviews. _OpenISU_. [https://doi.org/10.31274/b8136f97.85fb1123](https://doi.org/10.31274/b8136f97.85fb1123).
+- **Schares, E.** (2023). Impact of the 2022 OSTP memo: A bibliometric analysis of U.S. federally funded publications, 2017-2021. _Quantitative Science Studies_, 4(1): 1-21. [https://doi.org/10.1162/qss_a_00237](https://doi.org/10.1162/qss_a_00237).
+- **Schares, E.** (2022, October). Impact of the 2022 OSTP memo: A bibliometric analysis of U.S. federally funded publications, 2017-2021 [preprint]. _arXiv_, [https://arxiv.org/abs/2210.14871](https://arxiv.org/abs/2210.14871).
 - **Schares, E.** (2022). Unsub Extender: A Python-based web application for visualizing Unsub data. _Quantitative Science Studies_, 3(3). [https://doi.org/10.1162/qss_a_00200](https://doi.org/10.1162/qss_a_00200).
 - Harris, J., Piwowar, H., **Schares, E.**, and Pope, B. (2022). Unsub in real life: Using Unsub as part of serials decisions and negotiations. _The Serials Librarian_. [https://doi.org/10.1080/0361526X.2022.2019543](https://dr.lib.iastate.edu/handle/20.500.12876/YvkAkVJz).
 - **Schares, E.** (2021, December). An easier way to access the Web of Science API. _OpenISU_. [https://doi.org/10.31274/b8136f97.a592e503](https://doi.org/10.31274/b8136f97.a592e503).
@@ -36,7 +37,7 @@ I'm happy to offer consulting work through [Schares Data Science](https://www.sc
 - Hornbuckle, B., Togliatti, K., Cirone, R., and **Schares, E.** (2020, June). Be a more productive writer with online LaTeX. _CSA News_, 65(6), 35-38. [https://doi.org/10.1002/csan.20142](https://dr.lib.iastate.edu/handle/20.500.12876/96799).
 - **Schares, E.** (2019). ILL communication: Analyzing five years of Iowa State University’s print Interlibrary Loan requests. _ASEE Annual Conference and Exposition_, Tampa, FL. [https://dr.lib.iastate.edu/handle/20.500.12876/62335](https://dr.lib.iastate.edu/handle/20.500.12876/62335)
 - Evans, P. and **Schares, E.** (2017). FLEx – Iowa State University’s mobile technology classroom.  _ASEE Annual Conference and Exposition_, Columbus, OH. [https://dr.lib.iastate.edu/handle/20.500.12876/62327](https://dr.lib.iastate.edu/handle/20.500.12876/62327)
-- Mielke, N., Marquart, T., Ning, W., Kessenich, J., Belgal, H., **Schares, E.**, . . . Nevill, L. R. (2008, April 27 - May 1). Bit error rate in NAND Flash memories. Paper presented at the Intel Reliability Physics Symposium, 2008. _IRPS 2008_. IEEE International. [http://dx.doi.org/10.1109/RELPHY.2008.4558857](http://dx.doi.org/10.1109/RELPHY.2008.4558857)
+- Mielke, N., Marquart, T., Ning, W., Kessenich, J., Belgal, H., **Schares, E.**, . . . Nevill, L. R. (2008, April 27 - May 1). Bit error rate in NAND flash memories. Paper presented at the Intel Reliability Physics Symposium, 2008. _IRPS 2008_. IEEE International. [http://dx.doi.org/10.1109/RELPHY.2008.4558857](http://dx.doi.org/10.1109/RELPHY.2008.4558857)
 - Stieler, D., Dalal, V. L., Muthukrishnan, K., Noack, M., & **Schares, E.** (2006). Electron mobility in nanocrystalline silicon devices. _Journal of Applied Physics_, 100(3), 036106. [http://dx.doi.org/10.1063/1.2234545](https://dr.lib.iastate.edu/handle/20.500.12876/20957)
 - Outside Iowa State (2016-2022). April Fools' Day Joke Newsletter, University Library. [http://outsideiowastate.weebly.com/](http://outsideiowastate.weebly.com/)
 
