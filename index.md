@@ -19,7 +19,9 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 ## Consulting
 
-I'm happy to offer consulting work through [Schares Data Science](https://www.scharesdatascience.com/) for academic libraries, universities, publishers, and journals. Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better understand your data.
+I'm happy to offer consulting work through [Schares Data Science](https://www.scharesdatascience.com/) for academic libraries, universities, publishers, journals, and more. Past clients include [Clarke & Esposito](https://www.ce-strategy.com/) and [Invest in Open Infrastructure](https://investinopen.org/).
+
+Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better understand your data.
 
 ## Publications
 * * *
