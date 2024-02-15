@@ -45,8 +45,8 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Software
 * * *
-- **Schares, E.** (2022, October). OSTP Impact. [https://ostp.lib.iastate.edu](https://ostp.lib.iastate.edu). Supplemental site with interactive versions of graphs from the journal article. 2500+ hits, 20 countries.
-- **Schares, E.** (2021, May). Unsub Extender. [https://unsubextender.lib.iastate.edu](https://unsubextender.lib.iastate.edu). 3000+ hits, 42 countries.
+- **Schares, E.** (2022, October). OSTP Impact. [https://ostp.lib.iastate.edu](https://ostp.lib.iastate.edu). Supplemental site with interactive versions of graphs from the journal article. 3000+ hits, 20 countries.
+- **Schares, E.** (2021, May). Unsub Extender. [https://unsubextender.lib.iastate.edu](https://unsubextender.lib.iastate.edu). 3500+ hits, 50 countries.
 
 ## Presentations
 * * *
