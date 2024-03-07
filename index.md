@@ -78,7 +78,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 - American Society for Engineering Education, Engineering Libraries Division ([ASEE ELD](https://sites.asee.org/eld/))
 - Journal of Open Educational Resources in Higher Education ([JOERHE](https://journals.uwyo.edu/index.php/joerhe))
 
-## Research Workshops
+## Research Workshops and Professional Development Courses
 * * *
 - Statistical Rethinking [2024](https://github.com/rmcelreath/stat_rethinking_2024). Richard McElreath. January 5 - March 8, 2024. Weekly live course, online.
 - Science of Science Summer School [(S4)](https://s4.scienceofscience.org/). Syracuse University. August 1-12, 2022. Live course, online.
