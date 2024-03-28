@@ -82,6 +82,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Research Workshops and Professional Development Courses
 * * *
+- CWTS Scientometrics Using Open Data. [Leiden University Center for Science and Technology](https://www.cwts.nl/education/cwts-course-program/scientometrics-using-open-data), Netherlands. March 25-28, 2024. Live course, online
 - Statistical Rethinking [2024](https://github.com/rmcelreath/stat_rethinking_2024). Richard McElreath. January 5 - March 8, 2024. Weekly live course, online.
 - Science of Science Summer School [(S4)](https://s4.scienceofscience.org/). Syracuse University. August 1-12, 2022. Live course, online.
 - Working with Scholarly APIs. [NISO Spring Training Series](https://www.niso.org/events/working-scholarly-apis-niso-training-series). April 28 - June 16, 2022. Weekly live course, online.
