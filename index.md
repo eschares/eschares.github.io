@@ -27,6 +27,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Publications
 * * *
+- **Schares, E.** (2024, April). Comparing Funder Metadata in OpenAlex and Dimensions. _OpenISU_. [https://doi.org/10.31274/b8136f97.ccc3dae4](https://doi.org/10.31274/b8136f97.ccc3dae4).
 - **Schares, E.** (2023, December). Rethinking Hybrid Open Access labels for post-embargo articles. _OpenISU_. [https://doi.org/10.31274/b8136f97.45a4f699](https://doi.org/10.31274/b8136f97.45a4f699).
 - **Schares, E.** (2023, October). When is a year complete? _OpenISU_. [https://doi.org/10.31274/b8136f97.64082876](https://doi.org/10.31274/b8136f97.64082876).
 - **Schares, E.** and Mierz, S. (2023). Using OpenAlex to analyse cited reference patterns [preprint]. _27th International Conference on Science, Technology, and Innovation Indicators (STI 2023)_. [https://dapp.orvium.io/deposits/6441a6ee36d64a64fca6d6db/view](https://dapp.orvium.io/deposits/6441a6ee36d64a64fca6d6db/view)
