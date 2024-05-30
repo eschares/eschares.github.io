@@ -53,6 +53,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Presentations
 * * *
+- Steinhart, G., **Schares, E.**, and Skinner, K. (2024, May 30). Navigating the future of data sharing: The impact and cost of expanded public access requirements. _IASSIST/CARTO 49th Annual Conference_. Halifax, Nova Scotia.
 - **Schares, E.** (2023, Oct). Guest Lecture: Impact of the OSTP Memo. LS 502 - Research Methods. _University of Alabama School of Library and Information Studies_. Virtual.
 - Polka, J., **Schares, E.**, and Kaltenbrunner, W. (2023, Sept 7). Panel on Open Peer Review. _Charleston In Between_. Virtual.
 - **Schares, E.** (2023, May 10). HHS Briefing. _Taylor & Francis internal meeting_. Virtual.
