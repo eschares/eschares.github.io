@@ -27,6 +27,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Publications
 * * *
+- **Schares, E.** (2024, June). Inconsistent Hybrid OA Rates When Re-Running the Same Analysis. _OpenISU_. [https://doi.org/10.31274/b8136f97.b270124a](https://doi.org/10.31274/b8136f97.b270124a).
 - **Schares, E.** (2024, April). Comparing Funder Metadata in OpenAlex and Dimensions. _OpenISU_. [https://doi.org/10.31274/b8136f97.ccc3dae4](https://doi.org/10.31274/b8136f97.ccc3dae4).
 - **Schares, E.** (2023, December). Rethinking Hybrid Open Access labels for post-embargo articles. _OpenISU_. [https://doi.org/10.31274/b8136f97.45a4f699](https://doi.org/10.31274/b8136f97.45a4f699).
 - **Schares, E.** (2023, October). When is a year complete? _OpenISU_. [https://doi.org/10.31274/b8136f97.64082876](https://doi.org/10.31274/b8136f97.64082876).
