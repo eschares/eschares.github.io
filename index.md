@@ -27,6 +27,8 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Publications
 * * *
+- Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). An open dataset of article processing charges from six large scholarly publishers (2019-2023). _arXiv_. [https://arxiv.org/abs/2406.08356](https://arxiv.org/abs/2406.08356).
+- Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). Open dataset of annual Article Processing Charges (APCs) of gold and hybrid journals published by Elsevier, Frontiers, MDPI, PLOS, Springer-Nature and Wiley 2019-2023 [dataset]. _Harvard Dataverse_, v1. [https://doi.org/10.7910/DVN/CR1MMV](https://doi.org/10.7910/DVN/CR1MMV).
 - **Schares, E.** (2024, June). Inconsistent Hybrid OA Rates When Re-Running the Same Analysis. _OpenISU_. [https://doi.org/10.31274/b8136f97.b270124a](https://doi.org/10.31274/b8136f97.b270124a).
 - **Schares, E.** (2024, April). Comparing Funder Metadata in OpenAlex and Dimensions. _OpenISU_. [https://doi.org/10.31274/b8136f97.ccc3dae4](https://doi.org/10.31274/b8136f97.ccc3dae4).
 - **Schares, E.** (2023, December). Rethinking Hybrid Open Access labels for post-embargo articles. _OpenISU_. [https://doi.org/10.31274/b8136f97.45a4f699](https://doi.org/10.31274/b8136f97.45a4f699).
