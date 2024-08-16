@@ -5,11 +5,13 @@ My research focuses on bibliometrics, scholarly communication, and open science.
 I work to analyze and evaluate publishing trends at Iowa State and beyond to support the overall Open Access transition in scholarly publishing.
 I conduct bibliometric analyses of academic publications to find patterns across campus and inform Iowa State's growing number of Open Access [agreements](https://www.lib.iastate.edu/research-and-teach/publish-and-share/publish-open-access#agreements) with publishers. 
 
-I use Dimensions, Web of Science, OpenAlex, Unsub, Altmetrics, Open Refine, Python, pandas, R, LaTeX, and Overleaf to do this work.
+I use Dimensions, OpenAlex, Web of Science, Python, Unsub, Open Refine, pandas, plotly, R, LaTeX, and Overleaf to do this work.
 
-In 2022, I conducted a [study](https://doi.org/10.1162/qss_a_00237) on the impact of the OSTP "Nelson" guidance memorandum, which will make all U.S. federally funded research publicly available after 2026. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of each graph from the article, allowing users to pan, zoom, hover, and explore the data more thoroughly. The study was cited in OSTP's November 2023 ["Report to the U.S. Congress on Financing Mechanisms for Open Access Publishing of Federally Funded Research"](https://www.whitehouse.gov/wp-content/uploads/2023/11/Open-Access-Publishing-of-Scientific-Research.pdf) and June 2024's [Updated Report to the U.S. Congress on Financing Mechanisms for Open Access Publishing of Federally Funded Research](https://www.whitehouse.gov/wp-content/uploads/2024/06/2024-Report-to-Appropriations-Committee-on-Scholarly-Publishing-and-Public-Access-Implementation.pdf) to the Appropriations Committees of the U.S. Senate and House.
+Together with colleagues at the ScholCommLab, we released an open dataset of list APC prices from six publishers over the five years 2019-2023. The [dataset](https://doi.org/10.7910/DVN/CR1MMV), a [data paper](https://arxiv.org/abs/2406.08356) describing its construction, and an [analysis preprint](https://arxiv.org/abs/2407.16551) are all freely available online. We estimate that the scholarly community has paid nearly $9 billion (in 2023 US dollars) in APCs to these six publishers over these five years. In 2023 alone, we estimate $2.5 billion was paid in APCs.
 
-In 2021, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data. I published a [paper](https://doi.org/10.1162/qss_a_00200), and the project was honored with the 2022 RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award and the 2022 ASEE ELD [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation). 
+My study on [the impact of the 2022 OSTP](https://doi.org/10.1162/qss_a_00237) "Nelson" guidance memorandum, which will make U.S. federally funded research publicly available after 2026, was published in 2022. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of each graph from the article, allowing users to pan, zoom, hover, and explore the data more thoroughly. The study was cited in OSTP's November 2023 ["Report to the U.S. Congress on Financing Mechanisms for Open Access Publishing of Federally Funded Research"](https://www.whitehouse.gov/wp-content/uploads/2023/11/Open-Access-Publishing-of-Scientific-Research.pdf) and June 2024's [Updated Report to the U.S. Congress on Financing Mechanisms for Open Access Publishing of Federally Funded Research](https://www.whitehouse.gov/wp-content/uploads/2024/06/2024-Report-to-Appropriations-Committee-on-Scholarly-Publishing-and-Public-Access-Implementation.pdf) to the Appropriations Committees of the U.S. Senate and House.
+
+To help with collection analysis, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data. I published a [paper](https://doi.org/10.1162/qss_a_00200) describing its use, and the project was honored with the 2022 RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award and the 2022 ASEE ELD [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation). 
 
 I am also subject specialist / liaison to [three](https://www.ece.iastate.edu/) [engineering](https://www.mse.iastate.edu/) [departments](https://www.imse.iastate.edu/) on campus, providing [research help](https://instr.iastate.libguides.com/prf.php?account_id=55135), [instruction](https://instr.iastate.libguides.com/latex), collection development, and outreach.
 
@@ -29,7 +31,8 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 * * *
 - **Schares, E.** (2024, July). Data on datasets: Quantifying US federally funded records in DataCite. _Invest in Open Infrastructure_. [https://investinopen.org/blog/data-on-datasets-quantifying-us-federally-funded-records-in-datacite](https://investinopen.org/blog/data-on-datasets-quantifying-us-federally-funded-records-in-datacite).
 - Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). An open dataset of article processing charges from six large scholarly publishers (2019-2023). _arXiv_. [https://arxiv.org/abs/2406.08356](https://arxiv.org/abs/2406.08356).
-- Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). Open dataset of annual Article Processing Charges (APCs) of gold and hybrid journals published by Elsevier, Frontiers, MDPI, PLOS, Springer-Nature and Wiley 2019-2023 [dataset]. _Harvard Dataverse_, v1. [https://doi.org/10.7910/DVN/CR1MMV](https://doi.org/10.7910/DVN/CR1MMV).
+  - Covered in Brainard, J. (2024, August 1). Open for business. _Science News_. [https://www.science.org/content/article/pay-publish-model-open-access-pricing-scientists](https://www.science.org/content/article/pay-publish-model-open-access-pricing-scientists)
+- Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). Open dataset of annual Article Processing Charges (APCs) of gold and hybrid journals published by Elsevier, Frontiers, MDPI, PLOS, Springer-Nature and Wiley 2019-2023 **[dataset]**. _Harvard Dataverse_, v1. [https://doi.org/10.7910/DVN/CR1MMV](https://doi.org/10.7910/DVN/CR1MMV).
 - **Schares, E.** (2024, June). Inconsistent Hybrid OA Rates When Re-Running the Same Analysis. _OpenISU_. [https://doi.org/10.31274/b8136f97.b270124a](https://doi.org/10.31274/b8136f97.b270124a).
 - **Schares, E.** (2024, April). Comparing Funder Metadata in OpenAlex and Dimensions. _OpenISU_. [https://doi.org/10.31274/b8136f97.ccc3dae4](https://doi.org/10.31274/b8136f97.ccc3dae4).
 - **Schares, E.** (2023, December). Rethinking Hybrid Open Access labels for post-embargo articles. _OpenISU_. [https://doi.org/10.31274/b8136f97.45a4f699](https://doi.org/10.31274/b8136f97.45a4f699).
@@ -37,8 +40,12 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 - **Schares, E.** and Mierz, S. (2023). Using OpenAlex to analyse cited reference patterns [preprint]. _27th International Conference on Science, Technology, and Innovation Indicators (STI 2023)_. [https://dapp.orvium.io/deposits/6441a6ee36d64a64fca6d6db/view](https://dapp.orvium.io/deposits/6441a6ee36d64a64fca6d6db/view)
 - **Schares, E.** (2023, July). Benefits of reading open peer reviews. _OpenISU_. [https://doi.org/10.31274/b8136f97.85fb1123](https://doi.org/10.31274/b8136f97.85fb1123).
 - **Schares, E.** (2023). Impact of the 2022 OSTP memo: A bibliometric analysis of U.S. federally funded publications, 2017-2021. _Quantitative Science Studies_, 4(1): 1-21. [https://doi.org/10.1162/qss_a_00237](https://doi.org/10.1162/qss_a_00237).
+  - Cited 49 times by the White House OSTP in two reports to US Congress
+  - Winner of the ASEE ELD 2024 [Best Publication Award](https://sites.asee.org/eld/about-the-eld/awards/#paper)
 - **Schares, E.** (2022, October). Impact of the 2022 OSTP memo: A bibliometric analysis of U.S. federally funded publications, 2017-2021 [preprint]. _arXiv_, [https://arxiv.org/abs/2210.14871](https://arxiv.org/abs/2210.14871).
 - **Schares, E.** (2022). Unsub Extender: A Python-based web application for visualizing Unsub data. _Quantitative Science Studies_, 3(3). [https://doi.org/10.1162/qss_a_00200](https://doi.org/10.1162/qss_a_00200).
+  - Winner of the ASEE ELD 2022 [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation)
+  - Winner of the RUSA ETS 2022 [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award
 - Harris, J., Piwowar, H., **Schares, E.**, and Pope, B. (2022). Unsub in real life: Using Unsub as part of serials decisions and negotiations. _The Serials Librarian_. [https://doi.org/10.1080/0361526X.2022.2019543](https://dr.lib.iastate.edu/handle/20.500.12876/YvkAkVJz).
 - **Schares, E.** (2021, December). An easier way to access the Web of Science API. _OpenISU_. [https://doi.org/10.31274/b8136f97.a592e503](https://doi.org/10.31274/b8136f97.a592e503).
 - Langham-Putrow, A., Li, Y., Nelson, C., Willmott, M., Price, J., and **Schares, E.** (2021, November). Data sources for analyzing open access offers from publishers. _SPARC Data Analysis Working Group_, [https://sparcopen.org/our-work/negotiation-resources/data-analysis/data-sources-for-analyzing-open-access-offers-from-publishers/](https://sparcopen.org/our-work/negotiation-resources/data-analysis/data-sources-for-analyzing-open-access-offers-from-publishers/).
@@ -86,6 +93,11 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 - American Society for Engineering Education, Engineering Libraries Division ([ASEE ELD](https://sites.asee.org/eld/))
 - _Journal of Open Educational Resources in Higher Education_ ([JOERHE](https://journals.uwyo.edu/index.php/joerhe))
 
+## External Service
+* * *
+- OA2020 Working Group on cost modeling
+- OpenAlex Advisory Group
+
 ## Research Workshops and Professional Development Courses
 * * *
 - CWTS Scientometrics Using Open Data. [Leiden University Center for Science and Technology Studies](https://www.cwts.nl/education/cwts-course-program/scientometrics-using-open-data), Netherlands. March 25-28, 2024. Daily live course, online
@@ -96,8 +108,8 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Honors and Awards
 * * *
-- ASEE ELD [Best Publication Award](https://sites.asee.org/eld/about-the-eld/awards/#paper) for “Impact of the 2022 OSTP memo: A bibliometric analysis of US federally funded publications, 2017–2021”. (2024). American Society for Engineering Education, Engineering Libraries Division.
-- ASEE ELD [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation) for Unsub Extender. (2022). American Society for Engineering Education, Engineering Libraries Division.
+- ASEE ELD 2024 [Best Publication Award](https://sites.asee.org/eld/about-the-eld/awards/#paper) for “Impact of the 2022 OSTP memo: A bibliometric analysis of US federally funded publications, 2017–2021”. (2024). American Society for Engineering Education, Engineering Libraries Division.
+- ASEE ELD 2022 [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation) for Unsub Extender. (2022). American Society for Engineering Education, Engineering Libraries Division.
 - RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award for Unsub Extender. (2022). ALA Reference and User Services Association, Emerging Technologies Section. 
 - Faculty and Staff Innovator. (2021). Iowa State University Student Innovation Center.
 - Professional and Scientific Excellence [Award](https://www.provost.iastate.edu/faculty-success/awards/university/staff-awards/professional-and-scientific). (2021). Iowa State University Faculty and Staff Awards Ceremony.
