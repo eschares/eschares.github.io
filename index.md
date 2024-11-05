@@ -102,6 +102,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Research Workshops and Professional Development Courses
 * * *
+- Causal Diagrams: Draw Your Assumptions Before Your Conclusions. [HarvardX PH559x](https://learning.edx.org/course/course-v1:HarvardX+PH559x+2T2024/home). Miguel Hernan. November 2024. Online, self-paced.
 - CWTS Scientometrics Using Open Data. [Leiden University Center for Science and Technology Studies](https://www.cwts.nl/education/cwts-course-program/scientometrics-using-open-data), Netherlands. March 25-28, 2024. Daily live course, online
 - Statistical Rethinking [2024](https://github.com/rmcelreath/stat_rethinking_2024). Richard McElreath. January 5 - March 8, 2024. Weekly live course, online.
 - Science of Science Summer School [(S4)](https://s4.scienceofscience.org/). Syracuse University. August 1-12, 2022. Daily live course, online.
