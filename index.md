@@ -131,6 +131,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 * * *
 - [ORCiD](https://orcid.org/0000-0002-6292-8221)
 - [Github](https://github.com/eschares)
+- [BlueSky](https://bsky.app/profile/eschares.bsky.social)
 - <a rel="me" href="https://scholar.social/@eschares">Mastodon</a>
 - [Google Scholar](https://scholar.google.com/citations?user=OPB_YisAAAAJ&hl=en&oi=ao)
 - [Twitter](https://twitter.com/eschares)
