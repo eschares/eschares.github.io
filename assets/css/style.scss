@@ -8,11 +8,15 @@
   // left side is 270
   // 1200-270 = 930
   // 30px free room
+  
+  // old was width 1200, left side 270
+  // try total width 860 to make it better on mobile
+  // 590 left for content
   margin:0 auto;
 }
 
 section {
-  width:610px;
+  width:590px;  // change from 900 to 610 to 590
   float:right;
   padding-bottom:50px;
 }
