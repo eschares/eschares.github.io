@@ -19,6 +19,13 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 [ORCiD number 0000-0002-6292-8221](https://orcid.org/0000-0002-6292-8221)
 
+## Professional Experience
+- Engineering & Collection Analysis Librarian, Iowa State University. June 2015 - present.
+- Research Associate, ScholCommLab, University of Ottawa. September 2023 - present.
+- Research Affiliate, Invest in Open Infrastructure. November 2023 - present.
+  - Lead consultant on NSF EAGER grant [2330827](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2330827) "Investigating reasonable costs to achieve public access to federally funded research and scientific data"
+- Senior NAND Array Reliability Engineer, Intel Corp. Jan 2006 - June 2015.
+
 ## Consulting
 
 I'm happy to offer consulting work through [Schares Data Science](https://www.scharesdatascience.com/) for academic libraries, universities, publishers, journals, and more.
