@@ -9,7 +9,7 @@ I use Dimensions, OpenAlex, Web of Science, Python, Unsub, Open Refine, pandas, 
 
 Together with colleagues at the ScholCommLab, we released an open dataset of list APC prices from six publishers over the five years 2019-2023. The [dataset](https://doi.org/10.7910/DVN/CR1MMV), a [data paper](https://arxiv.org/abs/2406.08356) describing its construction, and an [analysis preprint](https://arxiv.org/abs/2407.16551) are all freely available online. We estimate that the scholarly community has paid nearly $9 billion in 2023 US dollars in APCs to these six publishers over these five years. In 2023 alone, we estimate $2.5 billion was paid in APCs.
 
-My study on [the impact of the 2022 OSTP](https://doi.org/10.1162/qss_a_00237) "Nelson" guidance memorandum, which will make U.S. federally funded research publicly available after 2026, was published in 2022. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of each graph from the article, allowing users to pan, zoom, hover, and explore the data more thoroughly. The study was cited 49 times by the OSTP in their November 2023 ["Report to the U.S. Congress on Financing Mechanisms for Open Access Publishing of Federally Funded Research"](https://www.whitehouse.gov/wp-content/uploads/2023/11/Open-Access-Publishing-of-Scientific-Research.pdf) and June 2024 [Updated Report to the U.S. Congress on Financing Mechanisms for Open Access Publishing of Federally Funded Research](https://www.whitehouse.gov/wp-content/uploads/2024/06/2024-Report-to-Appropriations-Committee-on-Scholarly-Publishing-and-Public-Access-Implementation.pdf) to the Appropriations Committees of the U.S. Senate and House.
+My study on [the impact of the 2022 OSTP](https://doi.org/10.1162/qss_a_00237) "Nelson" guidance memorandum, which will make U.S. federally funded research publicly available after 2026, was published in 2022. A companion website hosts [interactive versions](https://ostp.lib.iastate.edu) of each graph from the article, allowing users to pan, zoom, hover, and explore the data more thoroughly. The study was cited 49 times by the OSTP in [November 2023](https://www.bidenwhitehouse.gov/wp-content/uploads/2023/11/Open-Access-Publishing-of-Scientific-Research.pdf) and [June 2024](https://www.bidenwhitehouse.gov/wp-content/uploads/2024/06/2024-Report-to-Appropriations-Committee-on-Scholarly-Publishing-and-Public-Access-Implementation.pdf) reports to the Appropriations Committees of the U.S. Senate and House.
 
 To help with collection analysis, I created and launched [Unsub Extender](https://unsubextender.lib.iastate.edu/), a free Python-based web app to help libraries better analyze and understand their [Unsub](https://unsub.org) data. I published a [paper](https://doi.org/10.1162/qss_a_00200) describing its use, and the project was honored with the 2022 RUSA ETS [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award and the 2022 ASEE ELD [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation). 
 
@@ -36,6 +36,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Publications
 * * *
+- Dixon, P. and **Schares, E.** (2025). Bayesian and frequentist statistical models to predict publishing output and article processing charge (APC) totals. _JASIST_. In press.
 - Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). Annual article processing charges for six large scholarly publishers. _28th International Conference on Science, Technology, and Innovation Indicators (STI 2024)_. Berlin, Germany.
 - **Schares, E.** (2024, July). Data on datasets: Quantifying US federally funded records in DataCite. _Invest in Open Infrastructure_. [https://investinopen.org/blog/data-on-datasets-quantifying-us-federally-funded-records-in-datacite](https://investinopen.org/blog/data-on-datasets-quantifying-us-federally-funded-records-in-datacite).
 - Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). An open dataset of article processing charges from six large scholarly publishers (2019-2023). _arXiv_. [https://arxiv.org/abs/2406.08356](https://arxiv.org/abs/2406.08356).
@@ -72,6 +73,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Presentations
 * * *
+- Hare, M., Butler, L.A., and **Schares, E.**. (2025, Feb). A Dataset and Bibliometric Approach to Estimating Annual Article Processing Charges for Six Scholarly Publishers. _CARL Bibliometrics and Research Impact Community of Practice Call_. [https://www.youtube.com/watch?v=AdQ-WShKjXk](https://www.youtube.com/watch?v=AdQ-WShKjXk).
 - Steinhart, G., **Schares, E.**, and Skinner, K. (2024, May 30). Navigating the future of data sharing: The impact and cost of expanded public access requirements. _IASSIST/CARTO 49th Annual Conference_. Halifax, Nova Scotia. [https://zenodo.org/records/11263223](https://zenodo.org/records/11263223).
 - **Schares, E.** (2023, Oct). Guest Lecture: Impact of the OSTP Memo. LS 502 - Research Methods. _University of Alabama School of Library and Information Studies_. Virtual.
 - Polka, J., **Schares, E.**, and Kaltenbrunner, W. (2023, Sept 7). Panel on Open Peer Review. _Charleston In Between_. Virtual.
@@ -105,7 +107,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 ## External Service
 * * *
 - OA2020 Working Group on cost modeling
-- OpenAlex Advisory Group
+- Unsub advisor, OurResearch
 
 ## Research Workshops and Professional Development Courses
 * * *
@@ -132,7 +134,6 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 - [ESAC](https://esac-initiative.org/)
 - [OA2020](https://oa2020.org/)
 - [SPARC](https://sparcopen.org/)
-- [Information Power](https://www.coalition-s.org/coalition-s-and-alpsp-publish-toolkit-to-foster-open-access-agreements/)
 
 ## Other Profiles
 * * *
@@ -141,4 +142,3 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 - [BlueSky](https://bsky.app/profile/eschares.bsky.social)
 - <a rel="me" href="https://scholar.social/@eschares">Mastodon</a>
 - [Google Scholar](https://scholar.google.com/citations?user=OPB_YisAAAAJ&hl=en&oi=ao)
-- [Twitter](https://twitter.com/eschares)
