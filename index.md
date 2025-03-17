@@ -36,7 +36,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Publications
 * * *
-- Dixon, P. and **Schares, E.** (2025). Bayesian and frequentist statistical models to predict publishing output and article processing charge (APC) totals. _JASIST_. In press.
+- Dixon, P. and **Schares, E.** (2025). Bayesian and frequentist statistical models to predict publishing output and article processing charge totals. _Journal of the Association for Information Science and Technology (JASIST)_. [https://doi.org/10.1002/asi.24981](https://doi.org/10.1002/asi.24981).
 - Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). Annual article processing charges for six large scholarly publishers. _28th International Conference on Science, Technology, and Innovation Indicators (STI 2024)_. Berlin, Germany.
 - **Schares, E.** (2024, July). Data on datasets: Quantifying US federally funded records in DataCite. _Invest in Open Infrastructure_. [https://investinopen.org/blog/data-on-datasets-quantifying-us-federally-funded-records-in-datacite](https://investinopen.org/blog/data-on-datasets-quantifying-us-federally-funded-records-in-datacite).
 - Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). An open dataset of article processing charges from six large scholarly publishers (2019-2023). _arXiv_. [https://arxiv.org/abs/2406.08356](https://arxiv.org/abs/2406.08356).
