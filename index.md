@@ -36,7 +36,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Publications
 * * *
-- Dixon, P. and **Schares, E.** (2025). Bayesian and frequentist statistical models to predict publishing output and article processing charge totals. _Journal of the Association for Information Science and Technology (JASIST)_. [https://doi.org/10.1002/asi.24981](https://doi.org/10.1002/asi.24981).
+- Dixon, P. and **Schares, E.** (2025). Bayesian and frequentist statistical models to predict publishing output and article processing charge totals. _Journal of the Association for Information Science and Technology (JASIST)_, 1-16. [https://doi.org/10.1002/asi.24981](https://doi.org/10.1002/asi.24981).
 - Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). Annual article processing charges for six large scholarly publishers. _28th International Conference on Science, Technology, and Innovation Indicators (STI 2024)_. Berlin, Germany.
 - **Schares, E.** (2024, July). Data on datasets: Quantifying US federally funded records in DataCite. _Invest in Open Infrastructure_. [https://investinopen.org/blog/data-on-datasets-quantifying-us-federally-funded-records-in-datacite](https://investinopen.org/blog/data-on-datasets-quantifying-us-federally-funded-records-in-datacite).
 - Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). An open dataset of article processing charges from six large scholarly publishers (2019-2023). _arXiv_. [https://arxiv.org/abs/2406.08356](https://arxiv.org/abs/2406.08356).
@@ -73,6 +73,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Presentations
 * * *
+- Butler, L.A., and **Schares, E.**. (2025, April). A Dataset and Bibliometric Approach to Estimating Annual Article Processing Charges for Six Scholarly Publishers. _SPARC OpenCon April Call_.
 - Hare, M., Butler, L.A., and **Schares, E.**. (2025, Feb). A Dataset and Bibliometric Approach to Estimating Annual Article Processing Charges for Six Scholarly Publishers. _CARL Bibliometrics and Research Impact Community of Practice Call_. [https://www.youtube.com/watch?v=AdQ-WShKjXk](https://www.youtube.com/watch?v=AdQ-WShKjXk).
 - Steinhart, G., **Schares, E.**, and Skinner, K. (2024, May 30). Navigating the future of data sharing: The impact and cost of expanded public access requirements. _IASSIST/CARTO 49th Annual Conference_. Halifax, Nova Scotia. [https://zenodo.org/records/11263223](https://zenodo.org/records/11263223).
 - **Schares, E.** (2023, Oct). Guest Lecture: Impact of the OSTP Memo. LS 502 - Research Methods. _University of Alabama School of Library and Information Studies_. Virtual.
@@ -107,7 +108,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 ## External Service
 * * *
 - OA2020 Working Group on cost modeling
-- Unsub advisor, OurResearch
+- Unsub lead product specialist, OurResearch
 
 ## Research Workshops and Professional Development Courses
 * * *
