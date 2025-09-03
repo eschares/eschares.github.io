@@ -30,12 +30,14 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 
 I'm happy to offer consulting work through [Schares Data Science](https://www.scharesdatascience.com/) for academic libraries, universities, publishers, journals, and more.
 
-Past clients include [Clarke & Esposito](https://www.ce-strategy.com/), [Invest in Open Infrastructure](https://investinopen.org/), and [OurResearch](https://ourresearch.org/).
+Clients include [OurResearch](https://ourresearch.org/), [Invest in Open Infrastructure](https://investinopen.org/), and [Clarke & Esposito](https://www.ce-strategy.com/).
 
 Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better understand your data.
 
 ## Publications
 * * *
+- Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025, Sept. 3). NIH explores capping APCs: Let’s look at the evidence. _ScholCommLab blog_. https://doi.org/10.59350/scholcommlab.5645.
+- Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025). APCs of 2,228 journals where NIH-funded authors published in 2025 [dataset]. _Harvard Dataverse_, v1. https://doi.org/10.7910/DVN/3XDMNF 
 - Dixon, P. and **Schares, E.** (2025). Bayesian and frequentist statistical models to predict publishing output and article processing charge totals. _Journal of the Association for Information Science and Technology (JASIST)_, 1-16. [https://doi.org/10.1002/asi.24981](https://doi.org/10.1002/asi.24981).
 - Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). Annual article processing charges for six large scholarly publishers. _28th International Conference on Science, Technology, and Innovation Indicators (STI 2024)_. Berlin, Germany.
 - **Schares, E.** (2024, July). Data on datasets: Quantifying US federally funded records in DataCite. _Invest in Open Infrastructure_. [https://investinopen.org/blog/data-on-datasets-quantifying-us-federally-funded-records-in-datacite](https://investinopen.org/blog/data-on-datasets-quantifying-us-federally-funded-records-in-datacite).
