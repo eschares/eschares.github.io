@@ -76,6 +76,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Presentations
 * * *
+- Skinner, K., Kemp, J., Collister, L., Lippincott, S., Kemp, J., & Schares, E. (2025, April). Investigating Price, Cost, and Workflows Associated with Public Access. _NSF Federal Open Science Hour_.
 - Butler, L.A., and **Schares, E.**. (2025, April). A Dataset and Bibliometric Approach to Estimating Annual Article Processing Charges for Six Scholarly Publishers. _SPARC OpenCon April Call_.
 - Hare, M., Butler, L.A., and **Schares, E.**. (2025, Feb). A Dataset and Bibliometric Approach to Estimating Annual Article Processing Charges for Six Scholarly Publishers. _CARL Bibliometrics and Research Impact Community of Practice Call_. [https://www.youtube.com/watch?v=AdQ-WShKjXk](https://www.youtube.com/watch?v=AdQ-WShKjXk).
 - Steinhart, G., **Schares, E.**, and Skinner, K. (2024, May 30). Navigating the future of data sharing: The impact and cost of expanded public access requirements. _IASSIST/CARTO 49th Annual Conference_. Halifax, Nova Scotia. [https://zenodo.org/records/11263223](https://zenodo.org/records/11263223).
