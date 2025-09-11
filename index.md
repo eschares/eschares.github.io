@@ -36,6 +36,7 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Publications
 * * *
+- Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025, Sept. 11). Shaking up the scholarly publishing market – Why caps on APCs could backfire. _LSE Impact Blog_. https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/11/shaking-up-the-scholarly-publishing-market-why-caps-on-apcs-could-backfire/.
 - Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025, Sept. 3). NIH explores capping APCs: Let’s look at the evidence. _ScholCommLab blog_. https://doi.org/10.59350/scholcommlab.5645.
 - Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025). APCs of 2,228 journals where NIH-funded authors published in 2025 [dataset]. _Harvard Dataverse_, v1. https://doi.org/10.7910/DVN/3XDMNF 
 - Dixon, P. and **Schares, E.** (2025). Bayesian and frequentist statistical models to predict publishing output and article processing charge totals. _Journal of the Association for Information Science and Technology (JASIST)_, 1-16. [https://doi.org/10.1002/asi.24981](https://doi.org/10.1002/asi.24981).
