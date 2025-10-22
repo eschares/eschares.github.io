@@ -115,6 +115,13 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 - OA2020 Working Group on cost modeling
 - Unsub lead product specialist, OurResearch
 
+## Media Coverage
+* * *
+-	Comment in McKie, A. (2025, Oct 2). [NIH proposal to cap publishing fees prompts concern](https://www.researchprofessionalnews.com/rr-news-usa-federal-agencies-2025-10-nih-proposal-to-cap-publishing-fees-prompts-concern/). _Research Professional News_.
+-	Data covered in Brainard, J. (2024, August 1). [Open for business](https://www.science.org/content/article/pay-publish-model-open-access-pricing-scientists). _Science News_.
+-	Data covered in Larousserie, D. (2025, July 7). [The world of scientific journals on the verge of suffocation](https://www.lemonde.fr/sciences/article/2025/07/07/le-monde-des-revues-scientifiques-au-bord-de-l-asphyxie_6619660_1650684.html). _Le Monde_. (Translated from French)
+
+
 ## Research Workshops and Professional Development Courses
 * * *
 - Causal Diagrams: Draw Your Assumptions Before Your Conclusions. [HarvardX PH559x](https://learning.edx.org/course/course-v1:HarvardX+PH559x+2T2024/home). Miguel Hernan. November 2024. Online, self-paced.
