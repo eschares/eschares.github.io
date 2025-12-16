@@ -5,7 +5,7 @@ My research focuses on bibliometrics, scholarly communication, and open science.
 I work to analyze and evaluate publishing trends at Iowa State and beyond to support the overall Open Access transition in scholarly publishing.
 I conduct bibliometric analyses of academic publications to find patterns across campus and inform Iowa State's growing number of Open Access [agreements](https://www.lib.iastate.edu/research-and-teach/publish-and-share/publish-open-access#agreements) with publishers. 
 
-I use Dimensions, OpenAlex, Web of Science, Python, Unsub, Open Refine, pandas, plotly, R, LaTeX, and Overleaf to do this work.
+I use Dimensions, OpenAlex, Web of Science, Python, R, SQL, Unsub, Open Refine, pandas, plotly, rethinking, Stan, LaTeX, Overleaf, and Zotero to do this work.
 
 Together with colleagues at the ScholCommLab, we released an open dataset of list APC prices from six publishers over the five years 2019-2023. The [dataset](https://doi.org/10.7910/DVN/CR1MMV), a [data paper](https://arxiv.org/abs/2406.08356) describing its construction, and an [analysis preprint](https://arxiv.org/abs/2407.16551) are all freely available online. We estimate that the scholarly community has paid nearly $9 billion in 2023 US dollars in APCs to these six publishers over these five years. In 2023 alone, we estimate $2.5 billion was paid in APCs.
 
@@ -22,8 +22,8 @@ I hold a BS in Electrical Engineering from Iowa State and an MLIS from Rutgers U
 ## Professional Experience
 - Engineering & Collection Analysis Librarian, Iowa State University. June 2015 - present.
 - Research Associate, ScholCommLab, University of Ottawa. September 2023 - present.
-- Research Affiliate, Invest in Open Infrastructure. November 2023 - present.
-  - Lead consultant on NSF EAGER grant [2330827](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2330827) "Investigating reasonable costs to achieve public access to federally funded research and scientific data"
+- Research Affiliate, Invest in Open Infrastructure. November 2023 - October 2025.
+  - Lead consultant on NSF EAGER grant [2330827](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2330827).
 - Senior NAND Array Reliability Engineer, Intel Corp. Jan 2006 - June 2015.
 
 ## Consulting
