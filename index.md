@@ -34,6 +34,9 @@ Clients include [OurResearch](https://ourresearch.org/), [Invest in Open Infrast
 
 Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better understand your data.
 
+## Grants Awarded
+- [Alfred P. Sloan Foundation](https://sloan.org/). January 2026 - December 2028. $125,487 awarded. SCRAPE project - to study the economics of the academic publishing system.
+
 ## Publications
 * * *
 - Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025, Sept. 11). Shaking up the scholarly publishing market – Why caps on APCs could backfire. _LSE Impact Blog_. https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/11/shaking-up-the-scholarly-publishing-market-why-caps-on-apcs-could-backfire/.
