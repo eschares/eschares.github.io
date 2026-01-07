@@ -120,7 +120,8 @@ Please [get in touch](mailto:scharesdatascience@gmail.com) if you wish to better
 
 ## Media Coverage
 * * *
--	Comment in McKie, A. (2025, Oct 2). [NIH proposal to cap publishing fees prompts concern](https://www.researchprofessionalnews.com/rr-news-usa-federal-agencies-2025-10-nih-proposal-to-cap-publishing-fees-prompts-concern/). _Research Professional News_.
+- Quoted in Smith, P. A. (2026, Jan 7). [In Scientific Publishing, Who Should Foot the Bill?](https://undark.org/2026/01/07/apc-science-publishing/) _Undark Magazine_.
+-	Quoted in McKie, A. (2025, Oct 2). [NIH proposal to cap publishing fees prompts concern](https://www.researchprofessionalnews.com/rr-news-usa-federal-agencies-2025-10-nih-proposal-to-cap-publishing-fees-prompts-concern/). _Research Professional News_.
 -	Data covered in Brainard, J. (2024, August 1). [Open for business](https://www.science.org/content/article/pay-publish-model-open-access-pricing-scientists). _Science News_.
 -	Data covered in Larousserie, D. (2025, July 7). [The world of scientific journals on the verge of suffocation](https://www.lemonde.fr/sciences/article/2025/07/07/le-monde-des-revues-scientifiques-au-bord-de-l-asphyxie_6619660_1650684.html). _Le Monde_. (Translated from French)
 
