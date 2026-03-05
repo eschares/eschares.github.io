@@ -12,7 +12,7 @@
 title: Eric Schares
 description: "A professional portfolio for Jekyll with GitHub Pages" # " " for punctuation, shows at bottom of page
 year: 2026
-author: Eric Schares
+author: #Eric Schares
 bio: "Engineering & Collection Analysis Librarian at Iowa State University"  # underneath author name
 
 google_analytics: G-GQLD70NE13
