@@ -9,19 +9,20 @@
 #######
 # SITE SETTINGS
 #
-title: Academic Portfolio Template
-description: "a basic personal or professional portfolio template for Jekyll with GitHub Pages"
+title: Eric Schares
+description: "A professional portfolio for Jekyll with GitHub Pages" # " " for punctuation, shows at bottom of page
 year: 2026
-author: ISU Cyclone
-bio:
+author: Eric Schares
+bio: "Engineering & Collection Analysis Librarian at Iowa State University"  # underneath author name
 
 # PERSONAL URLS
-image: /assets/img/emoji-cool.png
-email:
-github_profile:
-department:
-orcid:
-cv:
+image: /assets/img/Schares_Eric_circle.png
+email: eschares@iastate.edu
+orcid: https://orcid.org/0000-0002-6292-8221
+bluesky_profile: https://bsky.app/profile/eschares.bsky.social
+github_profile: https://github.com/eschares
+department: https://www.lib.iastate.edu
+#cv: /assets/test_cv.txt
 
 # PAGE METADATA SETTINGS [optional!]
 # organization-name: 
@@ -65,7 +66,7 @@ navbar-background: bg-light
 # BOOTSWATCH THEMES [optional!]
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Choose from: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: 
+bootswatch: flatly
 
 # THEME FONTS [optional!]
 base-font-size: 1.2em
@@ -88,14 +89,14 @@ defaults:
 - scope:
     path: "pages"
   values:
-    layout: profile-page-left
+    layout: profile-page-right
     permalink: /:basename:output_ext
 # index.md
 - scope:
     path: ""
     type: pages
   values:
-    layout: profile-page-left
+    layout: profile-page-right
 
 ##########
 # BLOG SETTINGS
