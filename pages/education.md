@@ -1,10 +1,10 @@
 ---
-title: 
+title: Education
 nav: Education
 nav_order: 4
 ---
 
-## Education
+
 PhD, Bibliometrics. Expected 2030. Supervisor: Ludo Waltman
 Centre for Science and Technology Studies (CWTS), Leiden University, The Netherlands
 

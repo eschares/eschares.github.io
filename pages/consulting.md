@@ -1,10 +1,9 @@
 ---
-title: 
+title: Consulting
 nav: Consulting
 nav_order: 7
 ---
 
-## Consulting
 
 I'm happy to offer consulting work through [Schares Data Science](https://www.scharesdatascience.com/) for academic libraries, universities, publishers, journals, and more.
 

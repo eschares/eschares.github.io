@@ -23,7 +23,7 @@ This article won the ASEE ELD 2022 [Innovation in Access to Engineering Informat
 
 
 ---
-## All Publications
+## Complete Publications
 
 ### 2025
 - Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025, Sept. 11). Shaking up the scholarly publishing market – Why caps on APCs could backfire. _LSE Impact Blog_. https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/11/shaking-up-the-scholarly-publishing-market-why-caps-on-apcs-could-backfire/.
