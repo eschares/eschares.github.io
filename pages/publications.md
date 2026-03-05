@@ -1,5 +1,5 @@
 ---
-title: 
+title: Selected Publications
 nav: Publications
 nav_order: 1
 ---
@@ -21,7 +21,6 @@ This article won the ASEE ELD 2022 [Innovation in Access to Engineering Informat
   
 
 
----
 
 ---
 ## All Publications
