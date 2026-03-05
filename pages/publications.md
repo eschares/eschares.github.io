@@ -5,9 +5,15 @@ nav_order: 1
 ---
 
 ## Selected Publications
+- Haustein, S., **Schares, E.**, Alperin, J. P., Hare, M., Butler, L.-A., Schönfelder, N., . (2024). Estimating global article processing charges paid to six publishers for open access between 2019 and 2023. _arXiv_. [https://arxiv.org/abs/2407.16551](https://arxiv.org/abs/2407.16551).
 
+- **Schares, E.** (2023). Impact of the 2022 OSTP memo: A bibliometric analysis of U.S. federally funded publications, 2017-2021. _Quantitative Science Studies_, 4(1): 1-21. [https://doi.org/10.1162/qss_a_00237](https://doi.org/10.1162/qss_a_00237).
+  - Cited 49 times by the White House OSTP in two reports to US Congress
+  - Winner of the ASEE ELD 2024 [Best Publication Award](https://sites.asee.org/eld/about-the-eld/awards/#paper)
 
-
+- **Schares, E.** (2022). Unsub Extender: A Python-based web application for visualizing Unsub data. _Quantitative Science Studies_, 3(3). [https://doi.org/10.1162/qss_a_00200](https://doi.org/10.1162/qss_a_00200).
+  - Winner of the ASEE ELD 2022 [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation)
+  - Winner of the RUSA ETS 2022 [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award
 *** 
 
 ### 2025
@@ -19,6 +25,7 @@ nav_order: 1
 ### 2024
 - Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). Annual article processing charges for six large scholarly publishers. _28th International Conference on Science, Technology, and Innovation Indicators (STI 2024)_. Berlin, Germany.
 - **Schares, E.** (2024, July). Data on datasets: Quantifying US federally funded records in DataCite. _Invest in Open Infrastructure_. [https://investinopen.org/blog/data-on-datasets-quantifying-us-federally-funded-records-in-datacite](https://investinopen.org/blog/data-on-datasets-quantifying-us-federally-funded-records-in-datacite).
+- Haustein, S., **Schares, E.**, Alperin, J. P., Hare, M., Butler, L.-A., Schönfelder, N., . (2024). Estimating global article processing charges paid to six publishers for open access between 2019 and 2023. _arXiv_. [https://arxiv.org/abs/2407.16551](https://arxiv.org/abs/2407.16551).
 - Butler, L.-A., Hare, M., Schönfelder, N., **Schares, E.**, Alperin, J. P., Haustein, S. (2024). An open dataset of article processing charges from six large scholarly publishers (2019-2023). _arXiv_. [https://arxiv.org/abs/2406.08356](https://arxiv.org/abs/2406.08356).
   - Covered in Brainard, J. (2024, August 1). [Open for business](https://www.science.org/content/article/pay-publish-model-open-access-pricing-scientists). _Science News_.
   - Covered in Larousserie, D. (2025, July 7). [The world of scientific journals on the verge of suffocation](https://www.lemonde.fr/sciences/article/2025/07/07/le-monde-des-revues-scientifiques-au-bord-de-l-asphyxie_6619660_1650684.html). _Le Monde_. (Translated from French)
