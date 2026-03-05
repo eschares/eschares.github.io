@@ -14,6 +14,7 @@ nav_order: 1
 - **Schares, E.** (2022). Unsub Extender: A Python-based web application for visualizing Unsub data. _Quantitative Science Studies_, 3(3). [https://doi.org/10.1162/qss_a_00200](https://doi.org/10.1162/qss_a_00200).
   - Winner of the ASEE ELD 2022 [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation)
   - Winner of the RUSA ETS 2022 [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award
+
 ---
 
 ---
