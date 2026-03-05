@@ -1,5 +1,5 @@
 ---
-title: Publications
+title:
 nav: Publications
 nav_order: 1
 ---

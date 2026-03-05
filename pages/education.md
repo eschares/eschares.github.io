@@ -1,13 +1,13 @@
 ---
-title: Experience and Education
+title:
 nav: Education
 nav_order: 4
 ---
 
-# Education
+## Education
 
 
-# Professional Experience
+## Professional Experience
 - Engineering & Collection Analysis Librarian, Iowa State University. June 2015 - present.
 - Research Associate, ScholCommLab, University of Ottawa. September 2023 - present.
 - Research Affiliate, Invest in Open Infrastructure. November 2023 - October 2025.

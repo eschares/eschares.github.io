@@ -1,5 +1,5 @@
 ---
-title: Presentations
+title:
 nav: Presentations
 nav_order: 2
 ---

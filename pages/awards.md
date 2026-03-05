@@ -1,5 +1,5 @@
 ---
-title: Awards
+title:
 nav: Awards
 nav_order: 7
 ---
