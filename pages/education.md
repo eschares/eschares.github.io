@@ -1,5 +1,5 @@
 ---
-title: Education
+title: Experience and Education
 nav: Education
 nav_order: 4
 ---
