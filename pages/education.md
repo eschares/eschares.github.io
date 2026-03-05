@@ -5,6 +5,14 @@ nav_order: 4
 ---
 
 ## Education
+PhD, Bibliometrics. Expected 2030. Supervisor: Ludo Waltman
+Centre for Science and Technology Studies (CWTS), Leiden University, The Netherlands
+
+MLIS, Library and Information Science, 2012
+Rutgers University, New Brunswick, NJ
+		
+B.S., Electrical Engineering, 2005
+Iowa State University, Ames, IA
 
 
 ## Professional Experience
