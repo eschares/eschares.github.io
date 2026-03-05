@@ -1,5 +1,5 @@
 ---
-title:
+title: 
 nav: Education
 nav_order: 4
 ---

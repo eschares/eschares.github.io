@@ -1,5 +1,5 @@
 ---
-title:
+title: 
 nav: Grants
 nav_order: 3
 ---
