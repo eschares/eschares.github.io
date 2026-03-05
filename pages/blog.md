@@ -1,7 +1,7 @@
 ---
 title: Blog
-nav: Blog
-nav_order: 4
+nav: 
+nav_order:
 ---
   
 

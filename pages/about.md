@@ -1,7 +1,7 @@
 ---
 title: About This Template
-nav: About
-nav_order: 5
+nav: 
+nav_order: 
 ---
 
 [portfolio-template](https://github.com/isu-digital/portfolio-template) is a basic template repository to create an academic or professional portfolio website using [Bootstrap 5](https://getbootstrap.com/) and Jekyll on GitHub Pages. 
