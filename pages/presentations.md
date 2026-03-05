@@ -11,7 +11,7 @@ nav_order: 2
 * * *
 
 ### 2025
-- Skinner, K., Kemp, J., Collister, L., Lippincott, S., Kemp, J., & Schares, E. (2025, April). Investigating Price, Cost, and Workflows Associated with Public Access. _NSF Federal Open Science Hour_.
+- Skinner, K., Kemp, J., Collister, L., Lippincott, S., Kemp, J., & **Schares, E**. (2025, April). Investigating Price, Cost, and Workflows Associated with Public Access. _NSF Federal Open Science Hour_.
 - Butler, L.A., and **Schares, E.**. (2025, April). A Dataset and Bibliometric Approach to Estimating Annual Article Processing Charges for Six Scholarly Publishers. _SPARC OpenCon April Call_.
 - Hare, M., Butler, L.A., and **Schares, E.**. (2025, Feb). A Dataset and Bibliometric Approach to Estimating Annual Article Processing Charges for Six Scholarly Publishers. _CARL Bibliometrics and Research Impact Community of Practice Call_. [https://www.youtube.com/watch?v=AdQ-WShKjXk](https://www.youtube.com/watch?v=AdQ-WShKjXk).
 
