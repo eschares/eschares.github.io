@@ -1,19 +1,25 @@
 ---
-title:
+title: 
 nav: Publications
 nav_order: 1
 ---
 
-## Selected Publications
+
+This estimate of how much the global academic community paid in article processing charges over five years garnered media [attention](https://www.science.org/content/article/pay-publish-model-open-access-pricing-scientists). An update to this preprint is underway.
+
 - Haustein, S., **Schares, E.**, Alperin, J. P., Hare, M., Butler, L.-A., Schönfelder, N., . (2024). Estimating global article processing charges paid to six publishers for open access between 2019 and 2023. _arXiv_. [https://arxiv.org/abs/2407.16551](https://arxiv.org/abs/2407.16551).
+
+
+This article "informed federal policy" and was cited 49 times by the White House OSTP in two reports to US Congress. It also won the ASEE ELD 2024 [Best Publication Award](https://sites.asee.org/eld/about-the-eld/awards/#paper).
 
 - **Schares, E.** (2023). Impact of the 2022 OSTP memo: A bibliometric analysis of U.S. federally funded publications, 2017-2021. _Quantitative Science Studies_, 4(1): 1-21. [https://doi.org/10.1162/qss_a_00237](https://doi.org/10.1162/qss_a_00237).
 
-This article was cited 49 times by the White House OSTP in two reports to US Congress, and was the winner of the ASEE ELD 2024 [Best Publication Award](https://sites.asee.org/eld/about-the-eld/awards/#paper).
+
+This article won the ASEE ELD 2022 [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation) and the RUSA ETS 2022 [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award.
 
 - **Schares, E.** (2022). Unsub Extender: A Python-based web application for visualizing Unsub data. _Quantitative Science Studies_, 3(3). [https://doi.org/10.1162/qss_a_00200](https://doi.org/10.1162/qss_a_00200).
   
-This article won the ASEE ELD 2022 [Innovation in Access to Engineering Information Award](https://sites.asee.org/eld/about-the-eld/awards/#innovation) and the RUSA ETS 2022 [Best Emerging Technology Application](https://rusaupdate.org/2022/03/2022-ets-best-emerging-technology-application-award/) (BETA) Award.
+
 
 ---
 
