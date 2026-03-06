@@ -1,7 +1,7 @@
 ---
 title: Education
-nav: Education
-nav_order: 4
+nav: 
+nav_order: 
 ---
 
 
