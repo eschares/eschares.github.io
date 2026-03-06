@@ -26,9 +26,9 @@ This article won the ASEE ELD 2022 [Innovation in Access to Engineering Informat
 ## Complete Publications
 
 ### 2025
-- Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025, Sept. 11). Shaking up the scholarly publishing market – Why caps on APCs could backfire. _LSE Impact Blog_. https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/11/shaking-up-the-scholarly-publishing-market-why-caps-on-apcs-could-backfire/.
-- Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025, Sept. 3). NIH explores capping APCs: Let’s look at the evidence. _ScholCommLab blog_. https://doi.org/10.59350/scholcommlab.5645.
-- Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025). APCs of 2,228 journals where NIH-funded authors published in 2025 [dataset]. _Harvard Dataverse_, v1. https://doi.org/10.7910/DVN/3XDMNF 
+- Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025, Sept. 11). Shaking up the scholarly publishing market – Why caps on APCs could backfire. _LSE Impact Blog_. [https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/11/shaking-up-the-scholarly-publishing-market-why-caps-on-apcs-could-backfire/](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/11/shaking-up-the-scholarly-publishing-market-why-caps-on-apcs-could-backfire/).
+- Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025, Sept. 3). NIH explores capping APCs: Let’s look at the evidence. _ScholCommLab blog_. {https://doi.org/10.59350/scholcommlab.5645](https://doi.org/10.59350/scholcommlab.5645).
+- Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025). APCs of 2,228 journals where NIH-funded authors published in 2025 [dataset]. _Harvard Dataverse_, v1. [https://doi.org/10.7910/DVN/3XDMNF](https://doi.org/10.7910/DVN/3XDMNF).
 - Dixon, P. and **Schares, E.** (2025). Bayesian and frequentist statistical models to predict publishing output and article processing charge totals. _Journal of the Association for Information Science and Technology (JASIST)_, 1-16. [https://doi.org/10.1002/asi.24981](https://doi.org/10.1002/asi.24981).
 
 ### 2024
@@ -48,7 +48,7 @@ This article won the ASEE ELD 2022 [Innovation in Access to Engineering Informat
 - **Schares, E.** and Mierz, S. (2023). Using OpenAlex to analyse cited reference patterns [preprint]. _27th International Conference on Science, Technology, and Innovation Indicators (STI 2023)_. Leiden, NL. [https://dapp.orvium.io/deposits/6441a6ee36d64a64fca6d6db/view](https://dapp.orvium.io/deposits/6441a6ee36d64a64fca6d6db/view)
 - **Schares, E.** (2023, July). Benefits of reading open peer reviews. _OpenISU_. [https://doi.org/10.31274/b8136f97.85fb1123](https://doi.org/10.31274/b8136f97.85fb1123).
 - **Schares, E.** (2023). Impact of the 2022 OSTP memo: A bibliometric analysis of U.S. federally funded publications, 2017-2021. _Quantitative Science Studies_, 4(1): 1-21. [https://doi.org/10.1162/qss_a_00237](https://doi.org/10.1162/qss_a_00237).
-  - Cited 49 times by the White House OSTP in two reports to US Congress
+  - Cited 49 times by the White House OSTP in [two](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/Open-Access-Publishing-of-Scientific-Research.pdf) [reports](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/2024-Report-to-Appropriations-Committee-on-Scholarly-Publishing-and-Public-Access-Implementation.pdf) to US Congress
   - Winner of the ASEE ELD 2024 [Best Publication Award](https://sites.asee.org/eld/about-the-eld/awards/#paper)
 
 ### 2022
