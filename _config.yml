@@ -73,7 +73,7 @@ bootswatch: sandstone #flatly
 # THEME FONTS [optional!]
 base-font-size: 1.2em
 text-color: "#191919"
-link-color: "#325d88" # darker blue     "#0d6efd"  #standard blue
+link-color: "#3785d4" # darker blue     "#0d6efd"  #standard blue
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
