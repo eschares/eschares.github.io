@@ -10,3 +10,5 @@ My research focuses on bibliometrics, scholarly communication, and open science.
 I've also been an expert consultant to the White House Office of Science and Technology Policy [[4]](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/Open-Access-Publishing-of-Scientific-Research.pdf) and participated in an NSF grant [[5]](https://investinopen.org/data-room/reasonable-costs/).
 
 Prior to my current role at Iowa State, I worked at Intel for 10 years on NAND flash memory.
+
+More information available in the Tabs above.
