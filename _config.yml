@@ -10,8 +10,8 @@
 # SITE SETTINGS
 #
 title: Eric Schares
-description: "A professional portfolio for Jekyll with GitHub Pages" # " " for punctuation, shows at bottom of page
-year: last updated March 9, 2026
+description: "" # " " for punctuation, shows at bottom of page
+year: last updated March 18, 2026
 author: #Eric Schares
 bio: "Engineering & Collection Analysis Librarian at Iowa State University"  # underneath author name
 
