@@ -11,4 +11,4 @@ I've also been an expert consultant to the White House Office of Science and Tec
 
 Prior to my current role at Iowa State, I worked at Intel for 10 years on NAND flash memory.
 
-More information available in the Tabs above.
+More information available in the tabs above.
