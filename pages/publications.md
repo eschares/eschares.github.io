@@ -25,8 +25,10 @@ This article won the ASEE ELD 2022 [Innovation in Access to Engineering Informat
 ---
 ## Complete Publications
 
-### 2025
+### 2026
 - Aczel, B., Szaszi, B., Clelland, H. T., Kovacs, M., Holzmeister, F., van Ravenzwaaij, D., Schulz-Kümpel, H., Hoffmann, S., Nilsonne, G., Kosa, L., Torma, Z. A., Abdelfatah, Y., Aberson, C. L., Acar, O. A., Acem, E., Adamkovic, M., Adamovich, T., … **Schares, E.**,  … Nosek, B. A. (2026). Investigating the analytical robustness of the social and behavioural sciences. _Nature_, 652(8108), 135–142. https://doi.org/10.1038/s41586-025-09844-9.
+
+### 2025
 - Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025, Sept. 11). Shaking up the scholarly publishing market – Why caps on APCs could backfire. _LSE Impact Blog_. [https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/11/shaking-up-the-scholarly-publishing-market-why-caps-on-apcs-could-backfire/](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/11/shaking-up-the-scholarly-publishing-market-why-caps-on-apcs-could-backfire/).
 - Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025, Sept. 3). NIH explores capping APCs: Let’s look at the evidence. _ScholCommLab blog_. [https://doi.org/10.59350/scholcommlab.5645](https://doi.org/10.59350/scholcommlab.5645).
 - Haustein, S., **Schares, E.**, Alperin, J.P., Camargo, F., Matthias, L., Céspedes, L., Poitras, C., & Strecker, D. (2025). APCs of 2,228 journals where NIH-funded authors published in 2025 [dataset]. _Harvard Dataverse_, v1. [https://doi.org/10.7910/DVN/3XDMNF](https://doi.org/10.7910/DVN/3XDMNF).
