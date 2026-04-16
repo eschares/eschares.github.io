@@ -8,4 +8,5 @@ nav_order: 5
 - Institute of Museum and Library Services reviewer ([IMLS](https://www.imls.gov/))
 - _Quantitative Science Studies_ ([QSS](https://direct.mit.edu/qss))
 - American Society for Engineering Education, Engineering Libraries Division ([ASEE ELD](https://sites.asee.org/eld/))
+- PLOS ONE (https://journals.plos.org/plosone/)
 - _Journal of Open Educational Resources in Higher Education_ ([JOERHE](https://journals.uwyo.edu/index.php/joerhe))
