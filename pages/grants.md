@@ -12,12 +12,12 @@ nav_order: 3
 
 ## Media Coverage
 
-### Reached for comment and quoted in
+#### Reached for comment and quoted in
 
 - Smith, P.A. (2026, Jan. 7). [In scientific publishing, who should foot the bill?](https://undark.org/2026/01/07/apc-science-publishing/) _Undark Magazine_.
 
 - McKie, A. (2025, Oct. 2). [NIH proposal to cap publishing fees prompts concern](https://www.researchprofessionalnews.com/rr-news-usa-federal-agencies-2025-10-nih-proposal-to-cap-publishing-fees-prompts-concern/). _Reseach Professional News_.
 
-### Provided data and context for
+#### Provided data and context for
 
 - Brainard, J. (2024, Aug. 1). [Open for business](https://www.science.org/content/article/pay-publish-model-open-access-pricing-scientists). _Science_.
