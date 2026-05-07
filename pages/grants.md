@@ -11,6 +11,8 @@ nav_order: 3
 
 - **Schares, E.** ISU Computation Advisory Committee.  November 2016 – June 2017.  $2,578 awarded. Arduino/Raspberry Pi/Makey Makey hardware kits for library checkout.
 
+
+
 ## Media Coverage
 ---
 
