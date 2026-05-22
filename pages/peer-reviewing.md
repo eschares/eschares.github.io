@@ -16,3 +16,4 @@ nav_order: 5
 
 ### Conferences
 - American Society for Engineering Education, Engineering Libraries Division ([ASEE ELD](https://sites.asee.org/eld/))
+- International Conference on Science and Technology Indicators ([STI-ENID](https://enid-europe.eu/index.php?id=confSeries)) 

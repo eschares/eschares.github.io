@@ -18,6 +18,8 @@ nav_order: 3
 
 #### Reached for comment and quoted in
 
+- Brainard, J. (2026, May 22). [U.S. agencies aren’t ready for the rising cost of making research papers free, report warns](https://www.science.org/content/article/u-s-agencies-aren-t-ready-rising-cost-making-research-papers-free-report-warns). _Science_.
+
 - Smith, P.A. (2026, Jan. 7). [In scientific publishing, who should foot the bill?](https://undark.org/2026/01/07/apc-science-publishing/) _Undark Magazine_.
 
 - McKie, A. (2025, Oct. 2). [NIH proposal to cap publishing fees prompts concern](https://www.researchprofessionalnews.com/rr-news-usa-federal-agencies-2025-10-nih-proposal-to-cap-publishing-fees-prompts-concern/). _Reseach Professional News_.
