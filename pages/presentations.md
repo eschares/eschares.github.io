@@ -10,6 +10,9 @@ nav_order: 2
 
 * * *
 
+### 2026
+- **Schares, E.**, Sinn, R., McKelvey, H., & McLain, R. (2026, June 9). Intro to Unsub. _SPARC webinar_, 205 registrants, 95 live attendees.
+
 ### 2025
 - Skinner, K., Kemp, J., Collister, L., Lippincott, S., Kemp, J., & **Schares, E**. (2025, April). Investigating Price, Cost, and Workflows Associated with Public Access. _NSF Federal Open Science Hour_.
 - Butler, L.A., and **Schares, E.**. (2025, April). A Dataset and Bibliometric Approach to Estimating Annual Article Processing Charges for Six Scholarly Publishers. _SPARC OpenCon April Call_.
