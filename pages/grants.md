@@ -27,3 +27,7 @@ nav_order: 3
 #### Provided data and context for
 
 - Brainard, J. (2024, Aug. 1). [Open for business](https://www.science.org/content/article/pay-publish-model-open-access-pricing-scientists). _Science_.
+
+#### Letter to the Editor
+
+- Haustein, S., **Schares, E.**, Butler, L.-A., Alperin, J. P. (2025, July 20). Scientific publishing needs urgent reform to retain trust in research process. Letter to the Editor, _The Guardian_. https://www.theguardian.com/science/2025/jul/20/scientific-publishing-needs-urgent-reform-to-retain-trust-in-research-process.
