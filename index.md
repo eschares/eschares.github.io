@@ -10,6 +10,9 @@ My research focuses on academic publishing, bibliometrics, scholarly communicati
 
 I've also been an expert consultant to the White House Office of Science and Technology Policy [[4]](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/Open-Access-Publishing-of-Scientific-Research.pdf), PI on an Alfred P. Sloan Foundation grant [[5]](https://sloan.org/grant-detail/g-2025-79263), a researcher on a Volkswagen Foundation grant [[6]](https://www.scholcommlab.ca/research/roara/), and a consultant on an NSF grant [[7]](https://investinopen.org/data-room/reasonable-costs/).
 
+And in 2026, I won the _New Yorker_ cartoon caption contest [#995](https://web.archive.org/web/20260720165607/https://www.newyorker.com/cartoons/contest/#winner)!
+
 Prior to my current role at Iowa State, I worked at Intel for 10 years on NAND flash memory [[8]](http://dx.doi.org/10.1109/RELPHY.2008.4558857).
+
 
 More information available in the tabs above. You can get in touch with me using the information on the right.
