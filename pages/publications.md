@@ -27,7 +27,7 @@ This detailed look at a free analysis tool I developed won the ASEE ELD 2022 [In
 
 ### 2026
 
-- **Schares, E.** (2026). Investigating potential APC caps on NIH-funded articles. _American Society of Engineering Education_. ASEE 2026 Annual Conference & Exposition, Charlotte, NC.
+- **Schares, E.** (2026). Investigating potential APC caps on NIH-funded articles. _American Society of Engineering Education_. ASEE 2026 Annual Conference & Exposition, Charlotte, NC. [https://peer.asee.org/60231](https://peer.asee.org/60231).
 
 - Bohémier, K., del Junco, C., Dressel, W., Schilling, A., … **Schares, E.**, Garrison, J. and Hansen, S. and Over, S. and Threlkeld, A. (2026). LaTeX instruction in academic libraries. _Journal of eScience Librarianship_. https://doi.org/10.7191/jeslib.1191. 
 
