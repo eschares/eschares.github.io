@@ -12,7 +12,7 @@ I've also been an expert consultant to the White House Office of Science and Tec
 
 And in 2026, I won the _New Yorker_ cartoon caption contest [#995](https://web.archive.org/web/20260720165607/https://www.newyorker.com/cartoons/contest/#winner)!
 
-Prior to my current role at Iowa State, I worked at Intel for 10 years on NAND flash memory [[8]](http://dx.doi.org/10.1109/RELPHY.2008.4558857).
+Prior to my current role at Iowa State, I worked at Intel for 10 years on NAND flash memory [[9]](http://dx.doi.org/10.1109/RELPHY.2008.4558857).
 
 
 More information available in the tabs above. You can get in touch with me using the information on the right.
