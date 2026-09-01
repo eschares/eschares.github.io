@@ -5,12 +5,12 @@ nav_order: 1
 ---
 
 
-This estimate of how much the global academic community paid in article processing charges over five years garnered media [attention](https://www.science.org/content/article/pay-publish-model-open-access-pricing-scientists). An update to this preprint is underway.
+This estimate of how much the global academic community paid in article processing charges garnered media [attention](https://www.science.org/content/article/pay-publish-model-open-access-pricing-scientists). We updated the preprint in 2026 to include more publishers and years.
 
-- Haustein, S., **Schares, E.**, Alperin, J. P., Hare, M., Butler, L.-A., Schönfelder, N., . (2024). Estimating global article processing charges paid to six publishers for open access between 2019 and 2023. _arXiv_. [https://arxiv.org/abs/2407.16551](https://arxiv.org/abs/2407.16551).
+- Matthias, L., **Schares, E.**, Alperin, J.P., Butler, L.-A., Kuang, S., Schönfelder, N., & Haustein, S. (2026). Estimating global article processing charges paid to 14 publishers for open access between 2019 and 2025. _arXiv_. [https://arxiv.org/abs/2608.16322](https://arxiv.org/abs/2608.16322).
 
 
-This article "informed federal policy" and was cited 49 times by the White House OSTP in two reports to US Congress. It also won the ASEE ELD 2024 [Best Publication Award](https://sites.asee.org/eld/about-the-eld/awards/#paper).
+This article on the 2022 OSTP memo "informed federal policy" and was cited 49 times by the White House OSTP in two reports to US Congress. It also won the ASEE ELD 2024 [Best Publication Award](https://sites.asee.org/eld/about-the-eld/awards/#paper).
 
 - **Schares, E.** (2023). Impact of the 2022 OSTP memo: A bibliometric analysis of U.S. federally funded publications, 2017-2021. _Quantitative Science Studies_, 4(1): 1-21. [https://doi.org/10.1162/qss_a_00237](https://doi.org/10.1162/qss_a_00237).
 
@@ -26,6 +26,8 @@ This detailed look at a free analysis tool I developed won the ASEE ELD 2022 [In
 ## Complete Publications
 
 ### 2026
+
+- Matthias, L., **Schares, E.**, Alperin, J.P., Butler, L.-A., Kuang, S., Schönfelder, N., & Haustein, S. (2026). Estimating global article processing charges paid to 14 publishers for open access between 2019 and 2025. _arXiv_. [https://arxiv.org/abs/2608.16322](https://arxiv.org/abs/2608.16322).
 
 - **Schares, E.** (2026). Investigating potential APC caps on NIH-funded articles. _American Society of Engineering Education_. ASEE 2026 Annual Conference & Exposition, Charlotte, NC. [https://peer.asee.org/60231](https://peer.asee.org/60231).
 
