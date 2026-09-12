@@ -11,6 +11,8 @@ nav_order: 2
 * * *
 
 ### 2026
+- **Schares, E.** (2026). A graphical causal model of hybrid journal subscription prices. Poster presented at the STI-ENID 30th Annual International Conference. Antwerp, Belgium. [10.5281/zenodo.22656574](https://doi.org/10.5281/zenodo.22656574).
+
 - **Schares, E.**, Sinn, R., McKelvey, H., & McLain, R. (2026, June 9). Intro to Unsub. _SPARC webinar_, 205 registrants, 95 live attendees.
 
 ### 2025

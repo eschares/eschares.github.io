@@ -27,6 +27,8 @@ This detailed look at a free analysis tool I developed won the ASEE ELD 2022 [In
 
 ### 2026
 
+- **Schares, E.** (2026). A graphical causal model of hybrid journal subscription prices. _STI-ENID 30th Annual International Conference_. Antwerp, Belgium. [10.5281/zenodo.22656574](https://doi.org/10.5281/zenodo.22656574).
+
 - Matthias, L., **Schares, E.**, Alperin, J.P., Butler, L.-A., Kuang, S., Schönfelder, N., & Haustein, S. (2026). Estimating global article processing charges paid to 14 publishers for open access between 2019 and 2025. _arXiv_. [https://arxiv.org/abs/2608.16322](https://arxiv.org/abs/2608.16322).
 
 - **Schares, E.** (2026). Investigating potential APC caps on NIH-funded articles. _American Society of Engineering Education_. ASEE 2026 Annual Conference & Exposition, Charlotte, NC. [https://peer.asee.org/60231](https://peer.asee.org/60231).
